@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CreateProjectData>
+    <Data>
+    <AccountName>Hello</AccountName>
+    <CalculatorType>Password</CalculatorType>
+    <CalculatorType>Password</CalculatorType>
+    <ProjectName>DecTest</ProjectName>
+    <CurrencyType>BGN</CurrencyType>
+  </Data>
+  <Data>
+    <AccountName>REL</AccountName>
+    <CalculatorType>CoolingTower</CalculatorType>
+    <ProjectName>DecTest</ProjectName>
+    <CurrencyType>BGN</CurrencyType>
+  </Data>
+</CreateProjectData>

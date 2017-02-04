@@ -1,0 +1,7 @@
+D:\MyProgram\ReportGeneration\Framework\bin\Debug\chromedriver.exe
+D:\MyProgram\ReportGeneration\Framework\bin\Debug\Framework.dll
+D:\MyProgram\ReportGeneration\Framework\bin\Debug\Framework.pdb
+D:\MyProgram\ReportGeneration\Framework\bin\Debug\WebDriver.dll
+D:\MyProgram\ReportGeneration\Framework\bin\Debug\WebDriver.xml
+D:\MyProgram\ReportGeneration\Framework\obj\Debug\Framework.dll
+D:\MyProgram\ReportGeneration\Framework\obj\Debug\Framework.pdb

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ParametersData>
+  <DeltaTemperatureUS>1</DeltaTemperatureUS>
+  <RecirculationRateUS>11</RecirculationRateUS>
+  <DriftFactorUS>1</DriftFactorUS>
+  <EvaporationFactorUS>1</EvaporationFactorUS>
+  <DeltaTemperatureMetric>0.55555600</DeltaTemperatureMetric>
+  <RecirculationRateMetricPerDay>59.96092595</RecirculationRateMetricPerDay>
+  <DriftFactorMetric>0.01000000</DriftFactorMetric>
+  <EvaporationFactorMetric>0.01000000</EvaporationFactorMetric>
+  <MakeupWaterCost>1</MakeupWaterCost>
+  <OperatingDaysPerYear>1</OperatingDaysPerYear>
+  <CyclesOfConcentration>2</CyclesOfConcentration>
+  <CyclesOfConcentration_Proposed>11</CyclesOfConcentration_Proposed>
+  <ChemicalTreatmentCost>220</ChemicalTreatmentCost>
+  <LaborCost>20</LaborCost>
+  <MaintenanceCost>20</MaintenanceCost>
+  <ProductionCost>20</ProductionCost>
+  <MiscellaneousCost>20</MiscellaneousCost>
+  <ChemicalTreatmentCost_Proposed>10</ChemicalTreatmentCost_Proposed>
+  <LaborCost_Proposed>10</LaborCost_Proposed>
+  <MaintenanceCost_Proposed>10</MaintenanceCost_Proposed>
+  <ProductionCost_Proposed>10</ProductionCost_Proposed>
+  <MiscellaneousCost_Proposed>10</MiscellaneousCost_Proposed>
+</ParametersData>

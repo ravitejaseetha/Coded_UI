@@ -1,0 +1,48 @@
+﻿<ObjectRepository>
+  <FeatureSet name='Opportunity'>
+    <Element type='Link' name='Username'>
+      <id>login-email</id>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='Password'>
+      <id>login-password</id>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='CalculatorType'>
+      <marked>Reduced Corrosion Rates Savings Calculator</marked>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+     <Element type='' name='CalculatorType1'>
+      <marked>Water Savings by Increasing Tower Cycles</marked>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='SampleBoilersCalculatorType'>
+      <marked>Boiler Water Energy Savings by Increasing Cycles Savings Calculator</marked>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='ProejctName'>
+      <marked>autoEntryProject</marked>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='Currency'>
+      <marked>autopkrCurrency</marked>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='CurrencyType'>
+      <marked>USD</marked>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='Create'>
+      <marked>autobtnCreate</marked>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='ErrorMessage'>
+      <marked>autolblErrorMessage</marked>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+      <Element type='' name='CurrencyTypePopup'>
+      <id>select_dialog_listview</id>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+  </FeatureSet>
+</ObjectRepository>
