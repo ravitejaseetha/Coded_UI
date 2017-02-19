@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestSettings>
+  <TestSetting>
+    <Browser>GoogleChrome</Browser>
+  </TestSetting>
+  <TestSetting>
+    <Url>https://www.google.co.in/</Url>
+  </TestSetting>
+  <TestSetting>
+    <MaxTimeoutValue>80000</MaxTimeoutValue>
+  </TestSetting>
+  <TestSetting>
+    <UserViewMode>false</UserViewMode>
+  </TestSetting>
+</TestSettings>
