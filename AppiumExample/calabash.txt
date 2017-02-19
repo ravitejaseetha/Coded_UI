@@ -1,0 +1,55 @@
+
+android.bat list targets
+android create avd -n Tourism -t 3(target id)
+Do you wish to create a custom hardware profile [no]no
+
+ad1)java -jar re-sign.jar
+creating android emualtor
+2)android avd -n Tourism(name of device) -t 32(android version)
+Starting emualtor
+3)emulator -avd Tourism
+Help
+4)emulator -help-avd
+List of andorid versions
+5)android.bat list targets
+List of devices attached
+6)adb devices
+to know package name and activity
+7)type adb logcat in cmd and open package in emulator/real device and press ctrl + C(to stop logging)
+
+how to install apk on device through command prompt
+
+--First go to platform-tools
+and execute the command : adb  install path/to/your/app.apk
+
+
+--uiautomatorviewer to identify elements in emulator(to start this type uiautomatorviewer in cmd prompt)
+
+
+
+"//android.widget.TextView[@text='About Sikkim']"
+
+
+adb tcpip 5555
+disconnect your device and type adb connect 192.168.0.186(ip address of wireless connection)
+now again connect to system and authorize RSA key
+
+Increase emulator storage size
+emulator -avd <your avd name> -partition-size 1024 -wipe-data
+
+
+android delete avd -n Tab31
+
+Path settings
+
+user variables 
+---------------
+path :- C:\Program Files\Java\jdk1.8.0_11\bin;C:\Users\Raviteja\AppData\Roaming\npm
+
+System variables
+---------------------
+ANDROID_HOME :- C:\Users\Raviteja\AppData\Local\Android\sdk
+Path :- %SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files\Microsoft SQL Server\110\DTS\Binn\;C:\Program Files (x86)\Windows Kits\8.1\Windows Performance Toolkit\;C:\Program Files\Java\jdk1.8.0_11\bin;C:\Users\Raviteja\AppData\Local\Android\sdk;%PATH%;%ANDROID_HOME%\tools;%ANDROID_HOME%\platform-tools;C:\Program Files\Java\jdk1.8.0_11\bin;%JAVA_HOME%;D:\AppiumForWindows-1.3.4.1\Appium;C:\Users\Raviteja\Downloads\adt-bundle-windows-x86_64-20131030\adt-bundle-windows-x86_64-20131030\sdk;C:\Program Files (x86)\Skype\Phone\;C:\Program Files\nodejs\
+
+JAVA_HOME :- C:\Program Files\Java\jdk1.8.0_11;
+
