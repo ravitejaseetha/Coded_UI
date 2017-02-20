@@ -1,0 +1,44 @@
+<ObjectRepository>
+  <FeatureSet name='SearchPage'>
+    <Element type='' name='Tutorials'>
+      <xpath>.//*[@id='viewport']/div[7]/div/div[2]/ul/li[3]/a</xpath>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='TextBox' name='References'>
+      <id>sb_ifc0</id>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='SearchBox'>
+      <id>sb_ifc0</id>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='Search'>
+      <name>header_livescores</name>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='xSearch'>
+      <xpath>.//*[@id='viewport']/div[8]/div[2]/div[2]</xpath>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='divSearch'>
+      <xpath>.//*[@id='viewport']/div[8]/div[2]/div[2]/section[1]/div[1]/div/h1/a</xpath>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='cssSearch'>
+      <css>input[class=LM6RPg]</css>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='linktext'>
+      <linktext>Screen-reader users, click here to turn off Google Instant.</linktext>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='linktext'>
+      <css>.ql-lbl</css>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+    <Element type='' name='Partiallinktext'>
+      <partiallinktext>click here</partiallinktext>
+      <PageTitle>UMPS JS frame</PageTitle>
+    </Element>
+  </FeatureSet>
+</ObjectRepository>

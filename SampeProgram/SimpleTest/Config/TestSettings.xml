@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestSettings>
+  <TestSetting>
+    <Browser>GoogleChrome</Browser>
+  </TestSetting>
+  <!--<TestSetting>
+    <BinaryPath>D:\backup\Mydata\Portables\FirefoxWithSeleniumIDE\FirefoxWithSeleniumIDE\FirefoxPortable\FirefoxPortable\FirefoxPortable.exe</BinaryPath>
+  </TestSetting>-->
+  <TestSetting>
+    <Url>http://www.edmc.edu/</Url>    
+  </TestSetting>
+  <TestSetting>
+    <DBConnection>Data Source=HYD-RSEETHA\SQLExpress;Initial Catalog=Sample;User ID=sa;Password=alliance123$</DBConnection>    
+  </TestSetting>
+  <TestSetting>
+    <AUMCPUrl>https://test.mycampus.argosy.edu/</AUMCPUrl>
+  </TestSetting>
+  <TestSetting>
+    <AIGMCPUrl>https://test.mycampus.artinstitutes.edu/</AIGMCPUrl>
+</TestSetting>
+  <TestSetting>
+    <AIOMCPUrl>https://test.mycampus.aionline.edu/</AIOMCPUrl>
+  </TestSetting>
+  <TestSetting>
+    <BMCMCPUrl>https://test.mycampus.brownmackie.edu/</BMCMCPUrl>
+  </TestSetting>
+  <TestSetting>
+    <SUMCPUrl>https://test.mycampus.southuniversity.edu/</SUMCPUrl>
+  </TestSetting>
+  <TestSetting>
+    <MaxTimeoutValue>80000</MaxTimeoutValue>	
+  </TestSetting>
+  <TestSetting>
+    <UserViewMode>false</UserViewMode>
+  </TestSetting>
+  <TestSetting>
+    <ExcelSheet>Provider = Microsoft.Jet.
+    .4.0;Data Source = {0}; Extended Properties = 'Excel 8.0;HDR=Yes'</ExcelSheet>
+  </TestSetting>
+</TestSettings>

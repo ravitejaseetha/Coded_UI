@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Specflow", "Specflow\Specflow.csproj", "{FF7AA2D6-0DE4-4995-B160-C804A22422ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelExample", "ParallelExample\ParallelExample.csproj", "{57C3EA69-00FE-43BC-9E27-4E9CC27E670B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF7AA2D6-0DE4-4995-B160-C804A22422ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7AA2D6-0DE4-4995-B160-C804A22422ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7AA2D6-0DE4-4995-B160-C804A22422ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7AA2D6-0DE4-4995-B160-C804A22422ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57C3EA69-00FE-43BC-9E27-4E9CC27E670B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57C3EA69-00FE-43BC-9E27-4E9CC27E670B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57C3EA69-00FE-43BC-9E27-4E9CC27E670B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57C3EA69-00FE-43BC-9E27-4E9CC27E670B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
