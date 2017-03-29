@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\MyProjects\Check\SeleniumConcepts\NunitExample\bin\Debug\NunitExample.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2017-03-29" time="13:00:27">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8000" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Raviteja\Downloads\NUnit-2.6.3\NUnit-2.6.3\bin" machine-name="RAVIPC" user="seetha" user-domain="RAVIPC" />
+  <culture-info current-culture="en-IN" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="E:\MyProjects\Check\SeleniumConcepts\NunitExample\bin\Debug\NunitExample.dll" executed="True" result="Success" success="True" time="21.893" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="NunitExample" executed="True" result="Success" success="True" time="21.879" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Class1" executed="True" result="Success" success="True" time="21.877" asserts="0">
+            <results>
+              <test-case name="NunitExample.Class1.TC1_TestMethod" executed="True" result="Success" success="True" time="10.510" asserts="0">
+                <categories>
+                  <category name="Smoke" />
+                </categories>
+              </test-case>
+              <test-case name="NunitExample.Class1.TC2_TestMethod" executed="True" result="Success" success="True" time="11.297" asserts="0">
+                <categories>
+                  <category name="Smoke" />
+                </categories>
+              </test-case>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

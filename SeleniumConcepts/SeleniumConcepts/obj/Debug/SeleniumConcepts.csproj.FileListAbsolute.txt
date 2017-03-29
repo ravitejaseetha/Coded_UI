@@ -1,0 +1,11 @@
+E:\MyProjects\Check\SeleniumConcepts\SeleniumConcepts\bin\Debug\SeleniumConcepts.exe.config
+E:\MyProjects\Check\SeleniumConcepts\SeleniumConcepts\bin\Debug\chromedriver.exe
+E:\MyProjects\Check\SeleniumConcepts\SeleniumConcepts\bin\Debug\SeleniumConcepts.exe
+E:\MyProjects\Check\SeleniumConcepts\SeleniumConcepts\bin\Debug\SeleniumConcepts.pdb
+E:\MyProjects\Check\SeleniumConcepts\SeleniumConcepts\bin\Debug\WebDriver.dll
+E:\MyProjects\Check\SeleniumConcepts\SeleniumConcepts\bin\Debug\WebDriver.Support.dll
+E:\MyProjects\Check\SeleniumConcepts\SeleniumConcepts\bin\Debug\WebDriver.xml
+E:\MyProjects\Check\SeleniumConcepts\SeleniumConcepts\bin\Debug\WebDriver.Support.xml
+E:\MyProjects\Check\SeleniumConcepts\SeleniumConcepts\obj\Debug\SeleniumConcepts.csprojResolveAssemblyReference.cache
+E:\MyProjects\Check\SeleniumConcepts\SeleniumConcepts\obj\Debug\SeleniumConcepts.exe
+E:\MyProjects\Check\SeleniumConcepts\SeleniumConcepts\obj\Debug\SeleniumConcepts.pdb
